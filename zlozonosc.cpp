@@ -51,7 +51,7 @@ int main()
     clock_t end_time = std::clock();
     double execution_time = static_cast<double>(end_time - start_time) / CLOCKS_PER_SEC;
     cout << kadane(numbers, n) << endl;
-    cout << fixed << setprecision(10);
+    cout << fixed << setprecision(1000);
     cout << "Za pomoca Alogrytmu Kadane czas wykonania wynosi: " << execution_time << endl;
 
     start_time = clock();
