@@ -1,2 +1,3 @@
-# Zlozonosc
-Sprawdzanie czasu dzialania programu o roznej zlozonosci
+# Złożoność
+Sprawdzanie czasu działania programu o różnej złożoności
+O(N^2) vs O(N)
